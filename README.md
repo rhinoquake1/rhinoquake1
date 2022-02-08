@@ -15,6 +15,7 @@ Currently working as a Senior Data Analyst for a medical devices company
   - Excel
  
  Working mainly on upskilling in python
+ 
  Python
   - Pandas
   - Flask
